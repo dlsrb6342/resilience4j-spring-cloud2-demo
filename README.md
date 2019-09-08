@@ -1,3 +1,10 @@
+| This Repository is migrated to https://github.com/resilience4j/resilience4j-spring-cloud2-demo |
+| --- |
+
+
+---
+
+
 # resilience4j-spring-cloud2-demo
 
 **⚠️ resilience4j-spring-cloud2 is not released yet. It is [in progress](https://github.com/resilience4j/resilience4j/pull/550).**
